@@ -1,0 +1,1 @@
+$(cat artifacts/java-fundamentals)
